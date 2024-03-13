@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MFOXgamer
+- 👋 Hi, I’m @MFOXgamer(Syed ameer hussain)
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning engineering (Ai&Ds)
-- 💞️ I’m looking to collaborate in future (when i am able to some thing by my self)
+- 🌱 I’m currently learning engineering (IT)
+- 💞️ I’m looking to collaborate in future 
 - 📫 How to reach me (gamermfox@gmail.com)
 
 <!---
